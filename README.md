@@ -1,5 +1,4 @@
-## Hi there
-## I am just building some random projects!
+## Hi there 
 <!--
 **mithilmudaliyar/mithilmudaliyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
